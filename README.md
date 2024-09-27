@@ -8,3 +8,4 @@ Responsive design for mobile and desktop
 Easy to edit and customize
 Clean and modern UI
 Printable version available
+CHECK IT OUT HERE https://github.com/MartinsAloysius/project-1.git
